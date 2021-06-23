@@ -1,9 +1,9 @@
-#!/usr/bin/python -s
+#!/usr/bin/python
 #
 #  py-cat
 #
-#  Implements a subset of the GNU 'cat' functionality in python, with  added
-#  option of inserting delay between characters...
+#  Implements  a subset of the GNU 'cat' functionality in python,  with  the
+#  added option of inserting delay between characters...
 #
 #  This  program is free software: you can redistribute it and/or modify  it
 #  under  the  terms of the GNU General Public License as published  by  the
@@ -18,19 +18,20 @@
 #  You  should have received a copy of the GNU General Public License  along
 #  with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-#  20 Mar 16   0.1   - Initial version - MEJT
+#  20 Mar 16   0.1   - Initial version - MT
 #   3 Apr 16   0.2   - Reads input files line by line, added ability to read
-#                      from standard input - MEJT
+#                      from standard input - MT
 #  25 Nov 17   0.3   - Tidied up parameter parsing code and added ability to
-#                      parse values for parameters - MEJT
-#                    - Added an optional delay between characters - MEJT
-#                    - Version number now a 'constant' - MEJT
+#                      parse values for parameters - MT
+#                    - Added an optional delay between characters - MT
+#                    - Version number now a 'constant' - MT
+#  24 Jun 21   0.4   - Now backward compatible with Python 2.5 - MT
 #
  
 import sys, os
 import time
  
-VERSION = 0.3
+VERSION = 0.4
  
 def _about():
   sys.stdout.write(
@@ -129,11 +130,15 @@ for _name in _names:
         _print(_line)
         _line = sys.stdin.readline()
     else: # Read from file.
-      with open(_name, 'r') as _file:
-        for _line in _file:
-          _print(_line)
-  except IOError as _err:
-    _error(_name + ": " + _err.strerror)
+      _file = open(_name, 'r')
+      for _line in _file:
+        _print(_line)
+  except IOError, (errno, errmsg):
+    _error("'" + _name + "' " + errmsg)
   except KeyboardInterrupt: # Catch ^C
     sys.stdout.write("\n")
-    sys.exit(0)
+    sys.stdout.flush()
+    raise SystemExit 
+  else:
+    if _name!= "-":
+      _file.close()
