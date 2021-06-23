@@ -61,7 +61,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>py-cat/py-cat.py at 41a194c275063733949cd022023c5efeb8296073 · mike632t/py-cat · GitHub</title>
+  <title>py-cat/py-cat.py at 77f27c253824ad6115f78866549646c965d59cf6 · mike632t/py-cat · GitHub</title>
     <meta name="description" content="Contribute to mike632t/py-cat development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -77,7 +77,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="B00E:4BFB:1EBFD61:203366B:60D3BE4A" data-pjax-transient="true"/><meta name="html-safe-nonce" content="e0e4021e3ff11acd62e36bbc495710a6682827b7d73b794075bbf2d36852327f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCMDBFOjRCRkI6MUVCRkQ2MToyMDMzNjZCOjYwRDNCRTRBIiwidmlzaXRvcl9pZCI6IjMyMjM2NDIwNDk4NTg0ODU4MzQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="259471b1e2aaeba7fdd8344fdc0926f2fa72cc95256c67adfe2ee7a9de2cc865" data-pjax-transient="true"/>
+  <meta name="request-id" content="BA50:CD28:126CE96:13B1A94:60D3BEE4" data-pjax-transient="true"/><meta name="html-safe-nonce" content="88d9b66b03b3d91f90ddde70dde40dbb38dcf0a4aac3da7d239d93274999aa54" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCQTUwOkNEMjg6MTI2Q0U5NjoxM0IxQTk0OjYwRDNCRUU0IiwidmlzaXRvcl9pZCI6IjExOTAwMjk3MTQ0MzExMzEzNjQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="08d1d597b6e6cad32935e2673b65bf2724c6c0e768f2da93cab78a100317bb3a" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:379747092" data-pjax-transient>
 
@@ -129,7 +129,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -179,7 +179,7 @@
         <div class="d-flex flex-items-center">
               <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                 class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-tertiary rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6bae0f0f56daf89e636c10ab2bb2bbf59910dfcfda16d6510c5ec7652c03136c"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ed42493a1f9ed57e30d7ef87597f5ce0fcdba4297c51f1c6b6a121a14aab484d"
               >
                 Sign&nbsp;up
               </a>
@@ -332,7 +332,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="962rVObLEyy0kKE5cp0TM81GwVC/YHdyyzavSOEn3Uwx0rxdb0rrGVqCWBCaoiQSbJ4Wc/ThqQoXTrgpWBovsg==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="gdClXrzetS8yAgKwf9+tIRV2bzcdJTJANIas4wo/Rg1xg/6bGrtezc2D+GpcixLAmzGdOZk5W3GAnX1dDQgevw==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -487,9 +487,9 @@
           </div>
 
         <div class="position-relative mr-3">
-          <a href="/login?return_to=%2Fmike632t%2Fpy-cat%2Fblob%2F41a194c275063733949cd022023c5efeb8296073%2Fpy-cat.py"
+          <a href="/login?return_to=%2Fmike632t%2Fpy-cat%2Fblob%2F77f27c253824ad6115f78866549646c965d59cf6%2Fpy-cat.py"
             class="HeaderMenu-link flex-shrink-0 no-underline"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="34203167412c79f2c5c17af87cfebe077c36a5f49506f30f5da516055bc02f53"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b7ff4fbefb5f78986167dd66f385329d51381b268f6a3e50dd4ae125cd4c4572"
             data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
             Sign in
           </a>
@@ -497,8 +497,8 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=mike632t%2Fpy-cat"
               class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-tertiary rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="34203167412c79f2c5c17af87cfebe077c36a5f49506f30f5da516055bc02f53"
-              data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="55d5767c6925d4b8d6430eb5e9a16f4867aaa6ed728414a32b7ae4a87dddc5b0"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b7ff4fbefb5f78986167dd66f385329d51381b268f6a3e50dd4ae125cd4c4572"
+              data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f423bdaa8bae5ad64b10b97b1d3ef763fed74c10f9edf7e7deea7eda72827a22"
             >
               Sign up
             </a>
@@ -583,7 +583,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0d17e2ad74f8ed07ea4a99417f7744bc32faf5f5051ea7edc9a790b9d1b90efe" href="/login?return_to=%2Fmike632t%2Fpy-cat">
+      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="80fdadec46555f9eafac91c09a707500a3b02f10e432d24eb4ebf666fe168589" href="/login?return_to=%2Fmike632t%2Fpy-cat">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-bell">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>
@@ -592,7 +592,7 @@
   </li>
 
   <li>
-          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:379747092,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6ea9a9e5cb76da4cabdfeacd26c0d9f339f27b7cf6474f3a45970cd988b96c71" href="/login?return_to=%2Fmike632t%2Fpy-cat">
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:379747092,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c3c7dc932d1ca7cd9b20554816d007fa1df4beffc26c76aaa08dfa5cfe6ecc08" href="/login?return_to=%2Fmike632t%2Fpy-cat">
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star v-align-text-bottom mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -607,7 +607,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:379747092,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4751aba33c09421c328d292ec860b3038a13df69e20503ecb5255ecccff4c67f" href="/login?return_to=%2Fmike632t%2Fpy-cat">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:379747092,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="72df5699922e30e4a929d3f37a7dc91ac88fb70c7127e5fcaa4d6e1f393f4f94" href="/login?return_to=%2Fmike632t%2Fpy-cat">
           <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -761,9 +761,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:376ddf4c6ff8f4eda48a228d547764d093550c70e073d015e1d9fff85ea33483 -->
+    <!-- blob contrib key: blob_contributors:v22:6b18cf00671ad4c1d8e15a4d2b7e91da00abc6ce23fc6766e0e77029cda2a7ba -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -775,7 +775,7 @@
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-git-branch text-gray">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>41a194c275</span>
+      <span class="css-truncate-target" data-menu-button>77f27c2538</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -822,7 +822,7 @@
             query-endpoint="/mike632t/py-cat/refs"
             
             cache-key="v0:1624488778.002443"
-            current-committish="NDFhMTk0YzI3NTA2MzczMzk0OWNkMDIyMDIzYzVlZmViODI5NjA3Mw=="
+            current-committish="NzdmMjdjMjUzODI0YWQ2MTE1Zjc4ODY2NTQ5NjQ2Yzk2NWQ1OWNmNg=="
             default-branch="bWFpbg=="
             name-with-owner="bWlrZTYzMnQvcHktY2F0"
           >
@@ -873,7 +873,7 @@
             data-targets="input-demux.sinks"
             query-endpoint="/mike632t/py-cat/refs"
             cache-key="v0:1624488778.002443"
-            current-committish="NDFhMTk0YzI3NTA2MzczMzk0OWNkMDIyMDIzYzVlZmViODI5NjA3Mw=="
+            current-committish="NzdmMjdjMjUzODI0YWQ2MTE1Zjc4ODY2NTQ5NjQ2Yzk2NWQ1OWNmNg=="
             default-branch="bWFpbg=="
             name-with-owner="bWlrZTYzMnQvcHktY2F0"
           >
@@ -918,9 +918,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" rel="nofollow" href="/mike632t/py-cat/tree/41a194c275063733949cd022023c5efeb8296073"><span>py-cat</span></a></span></span><span class="separator">/</span><strong class="final-path">py-cat.py</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" rel="nofollow" href="/mike632t/py-cat/tree/77f27c253824ad6115f78866549646c965d59cf6"><span>py-cat</span></a></span></span><span class="separator">/</span><strong class="final-path">py-cat.py</strong>
           <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-  <summary class="btn-link Link--secondary css-truncate" aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;41a194c275063733949cd022023c5efeb8296073&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f0c23b248cf259fb0950ffdc1d3c5d4dde72b20e5359d12e5a4c8cfe494f9ef5">
+  <summary class="btn-link Link--secondary css-truncate" aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;77f27c253824ad6115f78866549646c965d59cf6&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="95e86db82c0aab03dcd217d7399ab8cc9705599854bb22ebe88ca4eedca7d7aa">
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
@@ -937,19 +937,55 @@
 </svg>
         </button>
       </header>
-      <div class="SelectMenu-list">
-          <div class="SelectMenu-blankslate">
-            <p class="mb-0 color-text-secondary">
-              No definitions found in this file.
-            </p>
-          </div>
-        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
         </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;77f27c253824ad6115f78866549646c965d59cf6&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="01ded3be524b30354187624aaa109ed6b6b46c735176375602c290d8472319d5" href="/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py#L29">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>_about</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;77f27c253824ad6115f78866549646c965d59cf6&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="01ded3be524b30354187624aaa109ed6b6b46c735176375602c290d8472319d5" href="/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py#L45">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>_version</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;77f27c253824ad6115f78866549646c965d59cf6&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="01ded3be524b30354187624aaa109ed6b6b46c735176375602c290d8472319d5" href="/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py#L52">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>_invalid</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;77f27c253824ad6115f78866549646c965d59cf6&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="01ded3be524b30354187624aaa109ed6b6b46c735176375602c290d8472319d5" href="/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py#L58">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>_unrecognized</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;77f27c253824ad6115f78866549646c965d59cf6&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="01ded3be524b30354187624aaa109ed6b6b46c735176375602c290d8472319d5" href="/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py#L64">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>_error</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
       </div>
       <footer class="SelectMenu-footer">
         <div class="d-flex flex-justify-between">
-          Code navigation not available for this commit
-          <svg class="octicon octicon-dot-fill text-light-gray" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
         </div>
       </footer>
     </div>
@@ -957,7 +993,7 @@
 </details>
 
       </h2>
-      <a href="/mike632t/py-cat/find/41a194c275063733949cd022023c5efeb8296073"
+      <a href="/mike632t/py-cat/find/77f27c253824ad6115f78866549646c965d59cf6"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -976,7 +1012,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:379747092,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2c6edf989a5b38ec9377b91b4e058b9bd1d5d46221bbd0aa244027a187967fa8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/mike632t/py-cat/find/41a194c275063733949cd022023c5efeb8296073">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:379747092,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6575e7176f5770d769a1457d76bab1883927be7f36c09d4bccf39f21970f2029" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/mike632t/py-cat/find/77f27c253824ad6115f78866549646c965d59cf6">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1003,7 +1039,7 @@
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -1016,7 +1052,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/mike632t/py-cat/contributors/41a194c275063733949cd022023c5efeb8296073/py-cat.py" class="commit-loader">
+      <include-fragment src="/mike632t/py-cat/contributors/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1047,21 +1083,21 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      122 lines (112 sloc)
+      136 lines (125 sloc)
       <span class="file-info-divider"></span>
-    3.71 KB
+    4.2 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/mike632t/py-cat/raw/41a194c275063733949cd022023c5efeb8296073/py-cat.py" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/mike632t/py-cat/raw/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/mike632t/py-cat/blame/41a194c275063733949cd022023c5efeb8296073/py-cat.py" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/mike632t/py-cat/blame/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1078,13 +1114,13 @@
 </svg>
           </button>
 
-          <a href="/login?return_to=%2Fmike632t%2Fpy-cat%2Fblob%2F41a194c275063733949cd022023c5efeb8296073%2Fpy-cat.py" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2Fmike632t%2Fpy-cat%2Fblob%2F77f27c253824ad6115f78866549646c965d59cf6%2Fpy-cat.py" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
           </a>
-          <a href="/login?return_to=%2Fmike632t%2Fpy-cat%2Fblob%2F41a194c275063733949cd022023c5efeb8296073%2Fpy-cat.py" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2Fmike632t%2Fpy-cat%2Fblob%2F77f27c253824ad6115f78866549646c965d59cf6%2Fpy-cat.py" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
@@ -1105,12 +1141,12 @@
             <li>
             </li>
           <li>
-            <a class="dropdown-item" href="/mike632t/py-cat/raw/41a194c275063733949cd022023c5efeb8296073/py-cat.py">
+            <a class="dropdown-item" href="/mike632t/py-cat/raw/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/mike632t/py-cat/blame/41a194c275063733949cd022023c5efeb8296073/py-cat.py">
+              <a class="dropdown-item" href="/mike632t/py-cat/blame/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py">
                 View blame
               </a>
             </li>
@@ -1207,16 +1243,15 @@
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#</span></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#   3 Apr 16   0.2   - Reads input files line by line, added ability to read</span></td>
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#                      from standard input - MEJT</span></td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>sys</span>, <span class=pl-s1>os</span></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#</span></td>
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
@@ -1225,7 +1260,7 @@
       </tr>
       <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-v>VERSION</span> <span class=pl-c1>=</span> <span class=pl-c1>0.1</span></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>sys</span>, <span class=pl-s1>os</span></td>
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
@@ -1234,229 +1269,230 @@
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_about</span>():</td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-v>VERSION</span> <span class=pl-c1>=</span> <span class=pl-c1>0.2</span></td>
       </tr>
       <tr>
         <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>_path</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>])</td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stdout</span>.<span class=pl-en>write</span>(</td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_about</span>():</td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;Usage: &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>] <span class=pl-c1>+</span> <span class=pl-s>&quot;[OPTION]... [FILE]...<span class=pl-cce>\n</span>&quot;</span></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>_path</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>])</td>
       </tr>
       <tr>
         <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;Concatenate FILE(s)to standard output.<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stdout</span>.<span class=pl-en>write</span>(</td>
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  -b, --number-nonblank    number nonempty output lines,&quot;</span> <span class=pl-c1>+</span> </td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;Usage: &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>] <span class=pl-c1>+</span> <span class=pl-s>&quot;[OPTION]... [FILE]...<span class=pl-cce>\n</span>&quot;</span></td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot; overrides -n<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span> </td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;Concatenate FILE(s)to standard output.<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  -n, --number             number all output lines <span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  -b, --number-nonblank    number nonempty output lines,&quot;</span> <span class=pl-c1>+</span> </td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  -r, --restart            line numbers start at zero, implies -n<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot; overrides -n<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span> </td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  -s, --squeeze-blank      suppress repeated empty output lines<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  -n, --number             number all output lines <span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
       </tr>
       <tr>
         <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;      --help               display this help and exit<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  -r, --restart            line numbers start at zero, implies -n<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;      --version            output version information and exit<span class=pl-cce>\n</span><span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  -s, --squeeze-blank      suppress repeated empty output lines<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;Example:<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;      --help               display this help and exit<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot; f g<span class=pl-cce>\t</span>   output f&#39;s contents, then g&#39;s contents.<span class=pl-cce>\n</span>&quot;</span>)</td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;      --version            output version information and exit<span class=pl-cce>\n</span><span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>raise</span> <span class=pl-v>SystemExit</span></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;Example:<span class=pl-cce>\n</span>&quot;</span> <span class=pl-c1>+</span></td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;  &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot; f g<span class=pl-cce>\t</span>   output f&#39;s contents, then g&#39;s contents.<span class=pl-cce>\n</span>&quot;</span>)</td>
       </tr>
       <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_version</span>():</td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>raise</span> <span class=pl-v>SystemExit</span></td>
       </tr>
       <tr>
         <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>print</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>]) <span class=pl-c1>+</span> <span class=pl-s>&quot; 0.1&quot;</span></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>print</span> <span class=pl-s>&quot;License GPLv3+: GNU GPL version 3 or later.&quot;</span></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_version</span>():</td>
       </tr>
       <tr>
         <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>print</span> <span class=pl-s>&quot;This is free software: you are free to change and redistribute it.&quot;</span></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>print</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>]) <span class=pl-c1>+</span> <span class=pl-s>&quot; 0.1&quot;</span></td>
       </tr>
       <tr>
         <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>print</span> <span class=pl-s>&quot;There is NO WARRANTY, to the extent permitted by law.&quot;</span></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>print</span> <span class=pl-s>&quot;License GPLv3+: GNU GPL version 3 or later.&quot;</span></td>
       </tr>
       <tr>
         <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>raise</span> <span class=pl-v>SystemExit</span></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>print</span> <span class=pl-s>&quot;This is free software: you are free to change and redistribute it.&quot;</span></td>
       </tr>
       <tr>
         <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>print</span> <span class=pl-s>&quot;There is NO WARRANTY, to the extent permitted by law.&quot;</span></td>
       </tr>
       <tr>
         <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_invalid</span>(<span class=pl-s1>_option</span>):</td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>raise</span> <span class=pl-v>SystemExit</span></td>
       </tr>
       <tr>
         <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>_path</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>])</td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;: invalid option -- &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_option</span>[<span class=pl-c1>1</span>:] <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39;<span class=pl-cce>\n</span>&quot;</span>)</td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_invalid</span>(<span class=pl-s1>_option</span>):</td>
       </tr>
       <tr>
         <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s>&quot;Try &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot; --help&#39; for more information.<span class=pl-cce>\n</span>&quot;</span>)</td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>_path</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>])</td>
       </tr>
       <tr>
         <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>raise</span> <span class=pl-v>SystemExit</span></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;: invalid option -- &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_option</span>[<span class=pl-c1>1</span>:] <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39;<span class=pl-cce>\n</span>&quot;</span>)</td>
       </tr>
       <tr>
         <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s>&quot;Try &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot; --help&#39; for more information.<span class=pl-cce>\n</span>&quot;</span>)</td>
       </tr>
       <tr>
         <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_unrecognized</span>(<span class=pl-s1>_option</span>):</td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>raise</span> <span class=pl-v>SystemExit</span></td>
       </tr>
       <tr>
         <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>_path</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>])</td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;: unrecognized option &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_option</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39;<span class=pl-cce>\n</span>&quot;</span>)</td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_unrecognized</span>(<span class=pl-s1>_option</span>):</td>
       </tr>
       <tr>
         <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s>&quot;Try &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot; --help&#39; for more information.<span class=pl-cce>\n</span>&quot;</span>)</td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>_path</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>])</td>
       </tr>
       <tr>
         <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="LC60" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>raise</span> <span class=pl-v>SystemExit</span></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;: unrecognized option &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_option</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39;<span class=pl-cce>\n</span>&quot;</span>)</td>
       </tr>
       <tr>
         <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="LC61" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s>&quot;Try &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_path</span> <span class=pl-c1>+</span> <span class=pl-s>&quot; --help&#39; for more information.<span class=pl-cce>\n</span>&quot;</span>)</td>
       </tr>
       <tr>
         <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_error</span>(<span class=pl-s1>_error</span>):</td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>raise</span> <span class=pl-v>SystemExit</span></td>
       </tr>
       <tr>
         <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>]) <span class=pl-c1>+</span> <span class=pl-s>&quot;: &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_name</span> <span class=pl-c1>+</span></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;: &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_error</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;<span class=pl-cce>\n</span>&quot;</span>)</td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>_error</span>(<span class=pl-s1>_error</span>):</td>
       </tr>
       <tr>
         <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sys</span>.<span class=pl-s1>stderr</span>.<span class=pl-en>write</span>(<span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>basename</span>(<span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>0</span>]) <span class=pl-c1>+</span> <span class=pl-s>&quot;: &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_name</span> <span class=pl-c1>+</span></td>
       </tr>
       <tr>
         <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_names</span> <span class=pl-c1>=</span> []</td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;: &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>_error</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;<span class=pl-cce>\n</span>&quot;</span>)</td>
       </tr>
       <tr>
         <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_restart</span> <span class=pl-c1>=</span> <span class=pl-c1>False</span></td>
-      </tr>
-      <tr>
-        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>False</span></td>
-      </tr>
-      <tr>
-        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="LC69" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_nonblank</span> <span class=pl-c1>=</span> <span class=pl-c1>False</span></td>
-      </tr>
-      <tr>
-        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_strip</span> <span class=pl-c1>=</span> <span class=pl-c1>False</span></td>
-      </tr>
-      <tr>
-        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td id="LC71" class="blob-code blob-code-inner js-file-line">
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">
 </td>
       </tr>
       <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_names</span> <span class=pl-c1>=</span> []</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_restart</span> <span class=pl-c1>=</span> <span class=pl-c1>False</span></td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>False</span></td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_nonblank</span> <span class=pl-c1>=</span> <span class=pl-c1>False</span></td>
+      </tr>
+      <tr>
         <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
-        <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class=pl-k>for</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>1</span>:]:</td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_strip</span> <span class=pl-c1>=</span> <span class=pl-c1>False</span></td>
       </tr>
       <tr>
         <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td id="LC73" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span> <span class=pl-s1>_arg</span>[:<span class=pl-c1>2</span>] <span class=pl-c1>==</span> <span class=pl-s>&quot;--&quot;</span>:</td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="LC74" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--squeeze-blank&quot;</span>:</td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line"><span class=pl-k>for</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s1>sys</span>.<span class=pl-s1>argv</span>[<span class=pl-c1>1</span>:]:</td>
       </tr>
       <tr>
         <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
-        <td id="LC75" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_strip</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span> <span class=pl-s1>_arg</span>[:<span class=pl-c1>2</span>] <span class=pl-c1>==</span> <span class=pl-s>&quot;--&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
-        <td id="LC76" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--restart&quot;</span>:</td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--squeeze-blank&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
-        <td id="LC77" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_strip</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
-        <td id="LC78" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_restart</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--restart&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
-        <td id="LC79" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--number&quot;</span>:</td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
-        <td id="LC80" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_restart</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
-        <td id="LC81" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--number-nonblank&quot;</span>:</td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--number&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
@@ -1464,71 +1500,71 @@
       </tr>
       <tr>
         <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
-        <td id="LC83" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_nonblank</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--number-nonblank&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
-        <td id="LC84" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--help&quot;</span>:</td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
-        <td id="LC85" class="blob-code blob-code-inner js-file-line">      <span class=pl-en>_about</span>()</td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_nonblank</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
-        <td id="LC86" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--version&quot;</span>:</td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--help&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
-        <td id="LC87" class="blob-code blob-code-inner js-file-line">      <span class=pl-en>_version</span>()</td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">      <span class=pl-en>_about</span>()</td>
       </tr>
       <tr>
         <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
-        <td id="LC88" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>in</span> <span class=pl-s>&quot;--version&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
-        <td id="LC89" class="blob-code blob-code-inner js-file-line">      <span class=pl-en>_unrecognized</span>(<span class=pl-s1>_arg</span>)</td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">      <span class=pl-en>_version</span>()</td>
       </tr>
       <tr>
         <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
-        <td id="LC90" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>else</span>:</td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
       </tr>
       <tr>
         <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
-        <td id="LC91" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>_arg</span>[:<span class=pl-c1>1</span>] <span class=pl-c1>==</span> <span class=pl-s>&quot;-&quot;</span> <span class=pl-c1>and</span> <span class=pl-en>len</span>(<span class=pl-s1>_arg</span>) <span class=pl-c1>&gt;</span> <span class=pl-c1>1</span>:</td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">      <span class=pl-en>_unrecognized</span>(<span class=pl-s1>_arg</span>)</td>
       </tr>
       <tr>
         <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
-        <td id="LC92" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>if</span> <span class=pl-s1>_arg</span> <span class=pl-c1>==</span> <span class=pl-s>&quot;-s&quot;</span>:</td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>else</span>:</td>
       </tr>
       <tr>
         <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
-        <td id="LC93" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_strip</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>_arg</span>[:<span class=pl-c1>1</span>] <span class=pl-c1>==</span> <span class=pl-s>&quot;-&quot;</span> <span class=pl-c1>and</span> <span class=pl-en>len</span>(<span class=pl-s1>_arg</span>) <span class=pl-c1>&gt;</span> <span class=pl-c1>1</span>: <span class=pl-c># A &#39;-&#39; by itself is valid (stdin).</span></td>
       </tr>
       <tr>
         <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
-        <td id="LC94" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>==</span> <span class=pl-s>&quot;-r&quot;</span>:</td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>if</span> <span class=pl-s1>_arg</span> <span class=pl-c1>==</span> <span class=pl-s>&quot;-s&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
-        <td id="LC95" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_strip</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
-        <td id="LC96" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_restart</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>==</span> <span class=pl-s>&quot;-r&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
-        <td id="LC97" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>==</span> <span class=pl-s>&quot;-n&quot;</span>:</td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
-        <td id="LC98" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_restart</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
-        <td id="LC99" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>==</span> <span class=pl-s>&quot;-b&quot;</span>:</td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>==</span> <span class=pl-s>&quot;-n&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
@@ -1536,92 +1572,149 @@
       </tr>
       <tr>
         <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
-        <td id="LC101" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_nonblank</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>elif</span> <span class=pl-s1>_arg</span> <span class=pl-c1>==</span> <span class=pl-s>&quot;-b&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
-        <td id="LC102" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>else</span>:</td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_number</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
-        <td id="LC103" class="blob-code blob-code-inner js-file-line">        <span class=pl-en>_invalid</span>(<span class=pl-s1>_arg</span>)</td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_nonblank</span> <span class=pl-c1>=</span> <span class=pl-c1>True</span></td>
       </tr>
       <tr>
         <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
-        <td id="LC104" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>else</span>:</td>
       </tr>
       <tr>
         <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
-        <td id="LC105" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_names</span>.<span class=pl-en>append</span>(<span class=pl-s1>_arg</span>)</td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line">        <span class=pl-en>_invalid</span>(<span class=pl-s1>_arg</span>)</td>
       </tr>
       <tr>
         <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
-        <td id="LC106" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
       </tr>
       <tr>
         <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
-        <td id="LC107" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_count</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_names</span>.<span class=pl-en>append</span>(<span class=pl-s1>_arg</span>) <span class=pl-c># If it isn&#39;t a qualified </span></td>
       </tr>
       <tr>
         <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
-        <td id="LC108" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_blanks</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span></td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
-        <td id="LC109" class="blob-code blob-code-inner js-file-line"><span class=pl-k>for</span> <span class=pl-s1>_name</span> <span class=pl-c1>in</span> <span class=pl-s1>_names</span>:</td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line"><span class=pl-k>if</span> <span class=pl-c1>not</span> <span class=pl-en>len</span>(<span class=pl-s1>_names</span>) : <span class=pl-s1>_names</span>.<span class=pl-en>append</span>(<span class=pl-s>&quot;-&quot;</span>) <span class=pl-c># Default to stdin.</span></td>
       </tr>
       <tr>
         <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
-        <td id="LC110" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span> <span class=pl-s1>_restart</span> : <span class=pl-s1>_count</span> <span class=pl-c1>=</span> <span class=pl-c1>1</span></td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
-        <td id="LC111" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>try</span>:</td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_count</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span></td>
       </tr>
       <tr>
         <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
-        <td id="LC112" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>with</span> <span class=pl-en>open</span>(<span class=pl-s1>_name</span>, <span class=pl-s>&#39;r&#39;</span>) <span class=pl-k>as</span> <span class=pl-s1>_file</span>:</td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>_blanks</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span></td>
       </tr>
       <tr>
         <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
-        <td id="LC113" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>for</span> <span class=pl-s1>_line</span> <span class=pl-c1>in</span> <span class=pl-en>iter</span>((<span class=pl-s1>_file</span>.<span class=pl-s1>readline</span>),<span class=pl-s>&quot;&quot;</span>):</td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line"><span class=pl-k>for</span> <span class=pl-s1>_name</span> <span class=pl-c1>in</span> <span class=pl-s1>_names</span>: </td>
       </tr>
       <tr>
         <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
-        <td id="LC114" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-en>len</span>(<span class=pl-s1>_line</span>) <span class=pl-c1>&gt;</span> <span class=pl-c1>1</span>: <span class=pl-s1>_blanks</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span></td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span> <span class=pl-s1>_restart</span> : <span class=pl-s1>_count</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span></td>
       </tr>
       <tr>
         <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
-        <td id="LC115" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-c1>not</span>(<span class=pl-s1>_blanks</span> <span class=pl-c1>&gt;</span> <span class=pl-c1>1</span> <span class=pl-c1>and</span> <span class=pl-s1>_strip</span>):</td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>try</span>:</td>
       </tr>
       <tr>
         <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
-        <td id="LC116" class="blob-code blob-code-inner js-file-line">          <span class=pl-k>if</span> <span class=pl-s1>_number</span> <span class=pl-c1>and</span> <span class=pl-c1>not</span>(<span class=pl-en>len</span>(<span class=pl-s1>_line</span>) <span class=pl-c1>==</span> <span class=pl-c1>1</span> <span class=pl-c1>and</span> <span class=pl-s1>_nonblank</span>):</td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>_name</span><span class=pl-c1>==</span> <span class=pl-s>&quot;-&quot;</span>:</td>
       </tr>
       <tr>
         <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
-        <td id="LC117" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>_count</span> <span class=pl-c1>+=</span> <span class=pl-c1>1</span></td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_line</span> <span class=pl-c1>=</span> <span class=pl-s1>sys</span>.<span class=pl-s1>stdin</span>.<span class=pl-en>readline</span>() <span class=pl-c># Read ahead.</span></td>
       </tr>
       <tr>
         <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
-        <td id="LC118" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>sys</span>.<span class=pl-s1>stdout</span>.<span class=pl-en>write</span>(<span class=pl-s>&quot;%6d  &quot;</span> <span class=pl-c1>%</span> <span class=pl-s1>_count</span>)</td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
       </tr>
       <tr>
         <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
-        <td id="LC119" class="blob-code blob-code-inner js-file-line">          <span class=pl-s1>sys</span>.<span class=pl-s1>stdout</span>.<span class=pl-en>write</span>(<span class=pl-s1>_line</span>)</td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_file</span> <span class=pl-c1>=</span> <span class=pl-en>open</span>(<span class=pl-s1>_name</span>, <span class=pl-s>&#39;r&#39;</span>)</td>
       </tr>
       <tr>
         <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
-        <td id="LC120" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_blanks</span> <span class=pl-c1>+=</span> <span class=pl-c1>1</span></td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_line</span> <span class=pl-c1>=</span> <span class=pl-s1>_file</span>.<span class=pl-en>readline</span>() <span class=pl-c># Read ahead.</span></td>
       </tr>
       <tr>
         <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
-        <td id="LC121" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>except</span> <span class=pl-v>IOError</span> <span class=pl-k>as</span> <span class=pl-s1>_err</span>:</td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>while</span> <span class=pl-s1>_line</span>:</td>
       </tr>
       <tr>
         <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
-        <td id="LC122" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>_error</span>(<span class=pl-s1>_err</span>.<span class=pl-s1>strerror</span>)</td>
+        <td id="LC122" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>if</span> <span class=pl-en>len</span>(<span class=pl-s1>_line</span>) <span class=pl-c1>&gt;</span> <span class=pl-c1>1</span>: <span class=pl-s1>_blanks</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span></td>
+      </tr>
+      <tr>
+        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
+        <td id="LC123" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>if</span> <span class=pl-c1>not</span>(<span class=pl-s1>_blanks</span> <span class=pl-c1>&gt;</span> <span class=pl-c1>1</span> <span class=pl-c1>and</span> <span class=pl-s1>_strip</span>):</td>
+      </tr>
+      <tr>
+        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
+        <td id="LC124" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-s1>_number</span> <span class=pl-c1>and</span> <span class=pl-c1>not</span>(<span class=pl-en>len</span>(<span class=pl-s1>_line</span>) <span class=pl-c1>==</span> <span class=pl-c1>1</span> <span class=pl-c1>and</span> <span class=pl-s1>_nonblank</span>):</td>
+      </tr>
+      <tr>
+        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
+        <td id="LC125" class="blob-code blob-code-inner js-file-line">          <span class=pl-s1>_count</span> <span class=pl-c1>+=</span> <span class=pl-c1>1</span></td>
+      </tr>
+      <tr>
+        <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
+        <td id="LC126" class="blob-code blob-code-inner js-file-line">          <span class=pl-s1>sys</span>.<span class=pl-s1>stdout</span>.<span class=pl-en>write</span>(<span class=pl-s>&quot;%6d  &quot;</span> <span class=pl-c1>%</span> <span class=pl-s1>_count</span>)</td>
+      </tr>
+      <tr>
+        <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
+        <td id="LC127" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>sys</span>.<span class=pl-s1>stdout</span>.<span class=pl-en>write</span>(<span class=pl-s1>_line</span>)</td>
+      </tr>
+      <tr>
+        <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
+        <td id="LC128" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_blanks</span> <span class=pl-c1>+=</span> <span class=pl-c1>1</span></td>
+      </tr>
+      <tr>
+        <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
+        <td id="LC129" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>if</span> <span class=pl-s1>_name</span><span class=pl-c1>==</span> <span class=pl-s>&quot;-&quot;</span>:</td>
+      </tr>
+      <tr>
+        <td id="L130" class="blob-num js-line-number" data-line-number="130"></td>
+        <td id="LC130" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_line</span> <span class=pl-c1>=</span> <span class=pl-s1>sys</span>.<span class=pl-s1>stdin</span>.<span class=pl-en>readline</span>() <span class=pl-c># Read ahead.</span></td>
+      </tr>
+      <tr>
+        <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
+        <td id="LC131" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>else</span>:</td>
+      </tr>
+      <tr>
+        <td id="L132" class="blob-num js-line-number" data-line-number="132"></td>
+        <td id="LC132" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>_line</span> <span class=pl-c1>=</span> <span class=pl-s1>_file</span>.<span class=pl-en>readline</span>() <span class=pl-c># Read ahead.</span></td>
+      </tr>
+      <tr>
+        <td id="L133" class="blob-num js-line-number" data-line-number="133"></td>
+        <td id="LC133" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>_name</span><span class=pl-c1>&lt;&gt;</span> <span class=pl-s>&quot;-&quot;</span>:</td>
+      </tr>
+      <tr>
+        <td id="L134" class="blob-num js-line-number" data-line-number="134"></td>
+        <td id="LC134" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>_file</span>.<span class=pl-s1>close</span></td>
+      </tr>
+      <tr>
+        <td id="L135" class="blob-num js-line-number" data-line-number="135"></td>
+        <td id="LC135" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>except</span> <span class=pl-v>IOError</span> <span class=pl-k>as</span> <span class=pl-s1>_err</span>:</td>
+      </tr>
+      <tr>
+        <td id="L136" class="blob-num js-line-number" data-line-number="136"></td>
+        <td id="LC136" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>_error</span>(<span class=pl-s1>_err</span>.<span class=pl-s1>strerror</span>)</td>
       </tr>
 </table>
 
@@ -1643,7 +1736,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/mike632t/py-cat/blame/41a194c275063733949cd022023c5efeb8296073/py-cat.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/mike632t/py-cat/blame/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/mike632t/py-cat/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -1668,11 +1761,11 @@
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
      data-tagsearch-url="/mike632t/py-cat/find-definition"
-     data-tagsearch-ref="41a194c275063733949cd022023c5efeb8296073"
+     data-tagsearch-ref="77f27c253824ad6115f78866549646c965d59cf6"
      data-tagsearch-path="py-cat.py"
      data-tagsearch-lang="Python"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;41a194c275063733949cd022023c5efeb8296073&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/41a194c275063733949cd022023c5efeb8296073/py-cat.py&quot;,&quot;user_id&quot;:null}}"
-     data-hydro-click-hmac="c6bdf779845cbcda15f3e89ab9a76303758de5e2195a0d6498d7c1acffabb254">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:379747092,&quot;ref&quot;:&quot;77f27c253824ad6115f78866549646c965d59cf6&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/mike632t/py-cat/blob/77f27c253824ad6115f78866549646c965d59cf6/py-cat.py&quot;,&quot;user_id&quot;:null}}"
+     data-hydro-click-hmac="55cdd11de75b96c383e5bc7a9580496a1bb2a781c1ac39329ec7145cce5cb4b4">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
